@@ -1,1 +1,12 @@
 # starting-react-app
+* Tip: start with the npm package `create-react-app`
+1. React app running locally that reflects changes made in the boilerplate jsx
+1. Placeholder jsx and css for the newsfeed (not the list)
+1. Single news headline component (not dynamic)
+1. Unit test that verifies the single news headline component displays
+1. Connect the news API(s)
+1. Handle error response from the API
+1. Display the list of news headline components dynamically
+1. Add click functionality for news headline
+1. News details overlay component displays on click
+1. Unit test that verifies the click behavior 
